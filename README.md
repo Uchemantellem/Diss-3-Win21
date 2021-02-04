@@ -8,7 +8,7 @@ git clone URL
 
 Add the source to your staging area
 
-git add DS3_Starter.py
+git add DS3_starter.py
 
 Check that it was added
 
